@@ -1,0 +1,1138 @@
+commit f2169d30fdd184ead3aeae42d183948f605a72cb
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Wed Mar 12 11:50:45 2025 +0100
+
+    fixing auth-service
+
+commit 32ad74ed9aa81ca13306cb514c44f5312cb41210
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Wed Mar 12 09:55:22 2025 +0100
+
+    working on frontend
+
+commit 4b4222edac53fa9da2f113a37e9423e266f81bde
+Merge: 45a4a2e 3e330b7
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Wed Mar 12 09:45:25 2025 +0100
+
+    Merge branch 'main' of github.com:pieterdehoogd02/DevOps
+
+commit 3e330b7598669c246631ca73c90631082ce9365e
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Wed Mar 12 01:32:12 2025 +0100
+
+    fixxxx
+
+commit 21a551eb68c6d56390ce92ca5ace400e93a78689
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Wed Mar 12 01:14:39 2025 +0100
+
+    fixxxxxxxx frontend
+
+commit 64077c78aad846a448b31e29f9258034555ee717
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Wed Mar 12 01:12:08 2025 +0100
+
+    fixxxxxxxed
+
+commit f841ae327844e35974f2851cb6763979a463ecdc
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Wed Mar 12 01:09:10 2025 +0100
+
+    fixed frontend
+
+commit ad9a24649193ead34a9eaf44ea654f11c95890a7
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 11 23:00:15 2025 +0100
+
+    debugging3
+
+commit eba64d47be2c11a90f56d2ad7285681c8486ae70
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 11 22:56:49 2025 +0100
+
+    debugging2
+
+commit e35fcce6504f839b2d18936cb0c416a4abb7aaeb
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 11 22:54:02 2025 +0100
+
+    debugging
+
+commit 45a4a2ea56d557e37c1bd58c88a5944d59a43527
+Merge: ce8d7a3 841bec5
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 22:20:33 2025 +0100
+
+    Merge branch 'main' of github.com:pieterdehoogd02/DevOps
+
+commit ce8d7a3202c14fc09f861bf437aaef7e6cc8b9ae
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 22:20:29 2025 +0100
+
+    trying auth service ssl
+
+commit 841bec5d804276cbe3b29cf40914bd8c46916eb5
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 11 21:43:13 2025 +0100
+
+    auth with https
+
+commit ee2654695854899c650693aad29f73a3fe6e25a5
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 17:24:35 2025 +0100
+
+    debugging auth-service episode 2
+
+commit 47201ef3896e430f5d9a95b6c2df9d496ce58c75
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 17:10:03 2025 +0100
+
+    debugging auth-service episode 1
+
+commit 730e5dbf6608bba28d443c1f335dd920fcd1e228
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 16:59:11 2025 +0100
+
+    trying auth-service http inshallah
+
+commit 3b1cc5bfaf3039b972bcd99a8593e26330a55ebc
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 16:52:51 2025 +0100
+
+    trying auth-service listening to all interfaces
+
+commit 5b0f885dbd5bf116185785b830dd228024c5be30
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 16:51:23 2025 +0100
+
+    trying auth-service mashallah
+
+commit 9204abc856b26e9a80ecf9531c92a1bb16a77749
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 16:45:05 2025 +0100
+
+    debugging auth-service login
+
+commit 6053515c1493e63bdf0f602fa55d76c9fb999c1e
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 16:40:36 2025 +0100
+
+    auth-service gon work inshallah
+
+commit 432d0fd8a4a3463887e6cc3a93f6da29d50485d9
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 16:26:52 2025 +0100
+
+    trying auth-service inshallah
+
+commit d5a5b860df79283c6ce1dda805013efce8d36e40
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 13:49:55 2025 +0100
+
+    retrying auth-service let's gooo
+
+commit fa9cd32314c19a76809f95706a6ee5219b101c4e
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 13:25:37 2025 +0100
+
+    trying auth-server let's goooo
+
+commit f94e30483991e3180696b1644f3500587572cf7e
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 12:16:56 2025 +0100
+
+    trying auth-service AGAIN X
+
+commit c592013a16760cd91ae70e1176f57e4d3a8c07aa
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 11:59:22 2025 +0100
+
+    trying auth service normal 3
+
+commit e7c9142096104aae924268cb9bf2c8fbb7e6e6fe
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 11:46:03 2025 +0100
+
+    trying auth service normal 2
+
+commit 18c57ada1996ce461b6bef602beada89f8332fe3
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 11:33:26 2025 +0100
+
+    trying auth service normal
+
+commit 487b9c93e298027032f12d0940c03d232a0c4517
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 01:56:14 2025 +0100
+
+    trying auth-service Ax3
+
+commit 81320d4b83a376ec2f6c737b3c371d5938acc29c
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 01:43:58 2025 +0100
+
+    can you work?? auth-service
+
+commit 86a2551f1455438a12d299733ab678cf6035dd69
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 01:28:08 2025 +0100
+
+    trying auth-service AAAA
+
+commit 662bacd18a977fbf7226142d74a29fe940aa8e31
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 01:08:12 2025 +0100
+
+    debugging auth-service zzz
+
+commit 73968c3ff4ffd09952c528dcaf4220afba551fda
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 01:04:58 2025 +0100
+
+    debugging auth-service
+
+commit 68a435b63bcaf7109f9b7d8769aee3daca579a1a
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 00:56:25 2025 +0100
+
+    trying auth-service ZZZ
+
+commit b8bb068b9e15b2d27c4b65f2418da81e9af365ae
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 00:53:47 2025 +0100
+
+    trying auth-service z
+
+commit 1be697df5efb3ec04cdc1efee5f4516cee2fc013
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 00:45:36 2025 +0100
+
+    making auth-service work baby
+
+commit db16a958dc0667b95780311aae74ed912094cc2f
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 00:43:36 2025 +0100
+
+    making auth-service work
+
+commit e599feeeee0872e6da2f15072eccdbd0d1530205
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 00:38:30 2025 +0100
+
+    trying auth-service 100
+
+commit b2dafdf7d8fb0bcc6cdb9484a331b9cd37a100b3
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 00:35:27 2025 +0100
+
+    Remove .env files from tracking
+
+commit b2c28578be924d018dc5ea2e3259d94dab87dc83
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 00:27:31 2025 +0100
+
+    trying auth service X2
+
+commit 01bd8770728022cd21e6dcdc9f8f31cccc57b50a
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 00:24:42 2025 +0100
+
+    trying auth service X1
+
+commit ccca41bef67db22451eeb66d0f61706bb57344ee
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 00:21:35 2025 +0100
+
+    trying auth service
+
+commit abc942cb1fd2a3e89ba8fb614c7e170d22e8b63e
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 00:18:18 2025 +0100
+
+    trying auth service 2
+
+commit ee45dce43851a92cc02ad6825d7d03099bf210bc
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Tue Mar 11 00:15:15 2025 +0100
+
+    trying auth service
+
+commit 4474923317dc2eab8be15c83c19f230381f504d7
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 23:55:35 2025 +0100
+
+    added AWS secrets
+
+commit d2a854d626888bdaeecdcc63cd3ad14d489bbc90
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 22:51:44 2025 +0100
+
+    trying auth service X
+
+commit d6acfb6f98d6106620e7e0a1d6c5c629a4bc53c4
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 22:46:46 2025 +0100
+
+    trying auth service X
+
+commit b9d809c68ac7b305a68a6b7f3e298dc543310f26
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 22:35:30 2025 +0100
+
+    trying auth service 6
+
+commit 2ad9f4ae4d13ee14c1c1d4306a5365b116ec7c8d
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 22:34:31 2025 +0100
+
+    trying auth service 5
+
+commit b1670a14186df4853f844b5d45c39f1a62881b44
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 22:09:23 2025 +0100
+
+    trying auth service 4
+
+commit 0bbf02b18a7144505b7f0feb955916658d7cf811
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 22:02:46 2025 +0100
+
+    trying auth service 3
+
+commit 31d9987f8d67bd4964326558702f7480510d62a5
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 21:47:15 2025 +0100
+
+    trying auth service 2
+
+commit ea0814ef3bb12427497c313b479b3b0d4353aeae
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 21:42:14 2025 +0100
+
+    trying auth service
+
+commit 0ce1fe6f202b0c7cf66a3c7fccb88f1c9d23258a
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 21:36:16 2025 +0100
+
+    trying auth service
+
+commit 4ae28a46666a8ad07d4872b07077535dce09ba1c
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 21:14:02 2025 +0100
+
+    configured SSL certificates ready to check auth-service
+
+commit d3dcf245ace25bbf229870656787dd7b53c4deb0
+Merge: 1758f39 33154c4
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 15:17:58 2025 +0100
+
+    Merge branch 'main' of github.com:pieterdehoogd02/DevOps
+
+commit 1758f39c7cab502e676e1a03117c6edcd269b474
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Mon Mar 10 15:17:46 2025 +0100
+
+    added certificates which are verified
+
+commit 33154c4a3db7b01768f620f5101555cdd7465332
+Author: yutong li <yt@eduvpn-uva-stu-145-3-18-234.vpn.uva.nl>
+Date:   Thu Mar 6 15:46:40 2025 +0100
+
+    checklist groups permissions add
+
+commit f33b2e271bf14a0826288812a40fc578b4b757d3
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 15:43:29 2025 +0100
+
+    debugging docker container 2
+
+commit ad4ea586e05acae807d63230abec3f8ed4fd9919
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 15:34:55 2025 +0100
+
+    debugging container X
+
+commit 96b70b816593d568e2e596245017eb6210e90fec
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 15:25:22 2025 +0100
+
+    debugging container
+
+commit e904b4097d7713401d0b918018562fd45d551bda
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 15:21:05 2025 +0100
+
+    debugging container
+
+commit f9803bd1b7fadab63e773523d1aef0544d6d3f46
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 15:18:37 2025 +0100
+
+    debugging container for certificate
+
+commit 4e0d26cf1ed49d197f63af949f1da6e8a06c4785
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 15:14:10 2025 +0100
+
+    putting certificate in the docker container
+
+commit 3a0416c53f2bdc870cbb03957c67da58770249f6
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 15:07:48 2025 +0100
+
+    trying to copy certificate into docker 4
+
+commit 5c8fd61ae7f907fd3ba4f4b54a803e6cb379bafe
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 15:06:42 2025 +0100
+
+    trying to copy certificate into docker 3
+
+commit b949e69807b778aacbdbe64c07bbc0a1714abe74
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 15:04:27 2025 +0100
+
+    trying to copy certificate into docker 2
+
+commit 2c2b45ce69cbf487f3045a47f8245b7d85d188b6
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 14:56:09 2025 +0100
+
+    trying to copy certificate into docker
+
+commit e1f2adbf1bb2e48ba874d36caa56cb067ccef059
+Merge: 8d87063 cfbe63a
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 14:45:47 2025 +0100
+
+    Merge branch 'main' of github.com:pieterdehoogd02/DevOps
+
+commit 8d87063124eb09c7c29a03e172d0be84cb106a8a
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 14:45:41 2025 +0100
+
+    adding more debugging steps
+
+commit cfbe63a3c1fdb46a581df3cef8e33b8f4c1c191d
+Author: pieterdehoogd02 <pieter.de.hoogd@student.uva.nl>
+Date:   Thu Mar 6 14:45:37 2025 +0100
+
+    .env http->https
+
+commit edd50adc3c218d9d84a500540a2f0a6011244de3
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 14:36:20 2025 +0100
+
+    certificate should be on docker container 2
+
+commit 166a7739f7bbd85b7215f3126bd9b9f27dacb673
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 14:34:01 2025 +0100
+
+    certificate should be on docker container
+
+commit 20f92eda7c9a453a2e2b9156c7c180b8c1965e13
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 14:26:08 2025 +0100
+
+    fixed dockerfile for certificate
+
+commit 944fe4c433c464f40db1f125baff421e9ab32d99
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 13:39:36 2025 +0100
+
+    adding cert in container
+
+commit 4187392a7a0f5a94d557868b6c17614a6aac42d8
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 13:35:36 2025 +0100
+
+    trying self signed cert again
+
+commit 75c68bdf8a8a50c401412d58947144ad18439ec7
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 13:30:55 2025 +0100
+
+    trying self-signed cert
+
+commit 231951ce608cdb79963e86871ce97863355221b5
+Merge: 7cfc450 d024d15
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 13:23:14 2025 +0100
+
+    Merge branch 'main' of github.com:pieterdehoogd02/DevOps
+
+commit 7cfc45080446c0e5e75ae95ab9b0b3814ab33d5e
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 13:23:10 2025 +0100
+
+    trying self-signed certs
+
+commit d024d15e33e08c36daf7d5b815584a91b6993baa
+Author: yutong li <yt@eduvpn-uva-stu-145-3-18-234.vpn.uva.nl>
+Date:   Thu Mar 6 13:16:09 2025 +0100
+
+    trying to fix https
+
+commit 0de6df5f22f5dca4b2e4c193d92e747aaf8bf24e
+Author: yutong li <yt@eduvpn-uva-stu-145-3-18-234.vpn.uva.nl>
+Date:   Thu Mar 6 13:09:21 2025 +0100
+
+    try to fix https
+
+commit bf9d4a6431be441ac01c577edbd13adbc864611d
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 13:08:52 2025 +0100
+
+    trying httpsAgent accept self-signed certificate
+
+commit 86325469f2cb976e439b4b972052359b8668aeae
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Mar 6 13:00:48 2025 +0100
+
+    authorise self-signed certificate
+
+commit 24295be2e791643eb87e6cf3626d7767babc95b8
+Author: yutong li <yt@eduvpn-uva-stu-145-3-18-234.vpn.uva.nl>
+Date:   Thu Mar 6 11:52:53 2025 +0100
+
+    change back to http
+
+commit 2c61cd891d88eaaf4f781b14d43b36bde88752c9
+Author: yutong li <yt@eduvpn-uva-stu-145-3-18-234.vpn.uva.nl>
+Date:   Wed Mar 5 17:24:51 2025 +0100
+
+    https for keycloak
+
+commit 5164f579d3fcb72320f7d2a1ab0ce6bf05fc40ef
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 4 22:29:29 2025 +0100
+
+    fix server.js for checklist
+
+commit f3766811c3e82d515f89893474862c55504e3e68
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 4 22:16:36 2025 +0100
+
+    configure .env for checklist
+
+commit 8401880d93368071c6f0d20aa8fed8a92531959f
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 4 20:58:17 2025 +0100
+
+    fix nginx reverse proxy '
+
+commit 3b6257cefa18fca3c601f05976c44748cbdce3f6
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 4 19:22:24 2025 +0100
+
+    fix nginx reverse proxy
+
+commit 1dadbf501a59bb97475a5630e24f0d47c00dc835
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 4 18:43:12 2025 +0100
+
+    ssl https fix
+
+commit 17fe175b834fe40cc3b608959e666542c7b025c1
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 4 16:41:41 2025 +0100
+
+    fixed https
+
+commit 4f91dc5cffb3f3b5c15ecf78ad24cbf5d9f3ae82
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 4 12:32:34 2025 +0100
+
+    fixed page.tsx
+
+commit 81152027d0579899a924afbfc38d2dcf2576c9e3
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 4 12:17:32 2025 +0100
+
+    set amplifyurl in backend
+
+commit 949bbdd985b273dddbb752655f140d8a5e1cd683
+Author: yutong li <yt@yutongs-MacBook-Pro.local>
+Date:   Tue Mar 4 01:11:59 2025 +0100
+
+    checklist backend first commit
+
+commit fd0944f4a36562b904aa4513475edd3caf1503df
+Author: pieterdehoogd02 <pieter.de.hoogd@student.uva.nl>
+Date:   Mon Mar 3 23:12:58 2025 +0100
+
+    Added use client
+
+commit a27933a68261162e4f69c1e051d70e1c9374c65a
+Author: pieterdehoogd02 <pieter.de.hoogd@student.uva.nl>
+Date:   Mon Mar 3 23:09:48 2025 +0100
+
+    Ignore eslint
+
+commit 46d9501c6d6be155c07c80b661ab02218e08f005
+Author: pieterdehoogd02 <pieter.de.hoogd@student.uva.nl>
+Date:   Mon Mar 3 22:44:10 2025 +0100
+
+    Delete amplify.yml
+
+commit f61a3f7657d18358878daee5ec89a721cdab4013
+Author: pieterdehoogd02 <pieter.de.hoogd@student.uva.nl>
+Date:   Mon Mar 3 22:42:08 2025 +0100
+
+    Update amplify.yml
+
+commit cfd4069f3bf88159418b653ae7eed13ee22f834b
+Author: pieterdehoogd02 <pieter.de.hoogd@student.uva.nl>
+Date:   Mon Mar 3 22:40:30 2025 +0100
+
+    Create amplify.yml
+
+commit 478bd0f0ebf061471bea63db03fbf789f71854f2
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Mon Mar 3 00:49:47 2025 +0100
+
+    changed page.tsx
+
+commit 49cf0bec7f03196f96db19da4429b24b24832603
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Sat Mar 1 15:23:19 2025 +0100
+
+    auth almost done
+
+commit 5d56e421cc440e397b3e47b10153a8d494ffcb49
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 14:48:32 2025 +0100
+
+    Only CIO's can create projects
+
+commit ee3a1ffa69e30662bbc24b83e5e731f92b2f7535
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 13:27:19 2025 +0100
+
+    added ls checks 3
+
+commit da14051efd83c3f66db4642093b917b68711522b
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 13:23:42 2025 +0100
+
+    added ls checks 2
+
+commit 0a71b114e4bc5bbc6ee5c638b36ba1e2a202fe2a
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 13:20:12 2025 +0100
+
+    added ls checks
+
+commit c1ee659f34b6f6895140c3ddd9fb72da41dd21d6
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 13:11:27 2025 +0100
+
+    deploy gh actions
+
+commit 860a0e3d5008ea90084eac4d0dd5dc564c4c1b6b
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 13:05:10 2025 +0100
+
+    corrected actions into making git folder if it doesn't exist, corrected server 3
+
+commit 31510f07179032c99df990110c0d44b5de277eb1
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 13:00:42 2025 +0100
+
+    corrected actions into making git folder if it doesn't exist, corrected server 2
+
+commit 5ec096ec28fdd341780d293dad2a02c70e237c55
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Sat Mar 1 12:54:27 2025 +0100
+
+    change dockerfile
+
+commit ddb7645861aa01ed855ee4ced273cdcfaf605c2d
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 12:53:55 2025 +0100
+
+    corrected actions into making git folder if it doesn't exist, corrected server
+
+commit 7d2e859b8dc048fc36d3c835a331028644e3f631
+Merge: e497f50 e306b4b
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 12:50:53 2025 +0100
+
+    corrected actions into making git folder if it doesn't exist
+
+commit e497f500c09388baac60bd86badd422a1ffec31c
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 12:49:18 2025 +0100
+
+    corrected actions into making git folder if it doesn't exist
+
+commit e306b4b1d257ab146117a541ff33e0bea36752a1
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Sat Mar 1 12:47:14 2025 +0100
+
+    test cicd
+
+commit 3d7269e58624108894c5d718fc118c637390e7e4
+Author: yutong0310 <yutong.li4@student.uva.nl>
+Date:   Sat Mar 1 12:26:24 2025 +0100
+
+    Update deploy.yml
+
+commit ebbddcef8bf4e6d3c462dc7bd6bfda03f1d6de6e
+Merge: c21dc8f f83bec3
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 12:23:08 2025 +0100
+
+    Merge branch 'main' of github.com:pieterdehoogd02/DevOps
+
+commit c21dc8f0585d36d161f13ff361e670abcff76c3c
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 12:22:28 2025 +0100
+
+    corrected githubactions
+
+commit f83bec3ceed9400aa3760d194fd1c6e5c9c29379
+Author: yutong0310 <yutong.li4@student.uva.nl>
+Date:   Sat Mar 1 12:21:37 2025 +0100
+
+    Update deploy.yml
+
+commit 1ff9fbb61bfaeaad5fbf644aed07cbd9a51c6401
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 12:19:29 2025 +0100
+
+    corrected Dockerfile
+
+commit 007b4bbde09838a7a7313c8605bf5aa9603b1fd1
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 11:56:10 2025 +0100
+
+    corrected Dockerfile
+
+commit ebf801e4095b05e6320371b5a977745a0ec97a6f
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 11:48:50 2025 +0100
+
+    corrected Dockerfile
+
+commit e137c2d5aa859bebc3deaac1cce12490fe19c7e0
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 11:39:34 2025 +0100
+
+    corrected Dockerfile and actions
+
+commit cbe25113cd04a3241472db2f9ef4232f4f7f5864
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 11:26:36 2025 +0100
+
+    testing print
+
+commit ccc8bb33bbc1a83041ab1e7fd4b80a0fef83dada
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 11:20:43 2025 +0100
+
+    debug X
+
+commit 0d472034927b603b82bc53b2ecaade180a9f28f6
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 11:17:03 2025 +0100
+
+    debug X
+
+commit 96572f5a7f4eacf08552db036527df0b6875587a
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 11:07:23 2025 +0100
+
+    debug X
+
+commit 71248693712efd80740bf570e96145459c43c589
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 11:04:45 2025 +0100
+
+    debug X
+
+commit 6afc1edf2b023ca2b73376ee4e830caed03a7404
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 11:00:33 2025 +0100
+
+    debugging server non-strict routing
+
+commit 8585019d8d3e14227ef7ada69936ed74ed1edc8b
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 10:59:46 2025 +0100
+
+    debugging server
+
+commit 327eed464b4f22f621cd7a4ec920c653e3aa2166
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 09:55:43 2025 +0100
+
+    debugging server2 removed keycloak
+
+commit 185ef589c23a68da3a9518c1e0dbd29730c390a8
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 09:47:53 2025 +0100
+
+    debugging server2
+
+commit 75837a04650767870347e495fbb1725254726733
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 02:12:10 2025 +0100
+
+    testing APIs
+
+commit f98d5afe4d298486a6d04512f5e2230a14e4c641
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 02:09:10 2025 +0100
+
+    testing APIs 5
+
+commit 9bfab9c53536ba938277ea793e8c614ed466dd5c
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 02:07:07 2025 +0100
+
+    testing APIs 5
+
+commit 46266527f957021f5ea43f8cf2fc46ac598287b2
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 02:03:26 2025 +0100
+
+    testing APIs 4
+
+commit 501970870ec462d10bf622d38da898005811727b
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 01:57:49 2025 +0100
+
+    testing APIs without keycloak code
+
+commit a9fb53f30e2d89c4b97bacf1cbe2bf380798c488
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 01:55:32 2025 +0100
+
+    testing APIs 3
+
+commit 342961e960278b8c9520a0210cb150912c6a3016
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 01:50:06 2025 +0100
+
+    testing APIs 3
+
+commit d59dca484eb8f4fdc5573462769cda9cfaa6d108
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 01:45:19 2025 +0100
+
+    testing APIs 2
+
+commit a72b7e6174ef1ac83e2bed12c55d20e46f046c6e
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 01:40:40 2025 +0100
+
+    testing APIs 2
+
+commit 9545b803a9f30b2f9a015162dc65085b8833ff7b
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 01:37:57 2025 +0100
+
+    testing APIs 2
+
+commit 2eb617a5e3416cc4e83757e1595c115433b43e16
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 01:37:14 2025 +0100
+
+    testing APIs 2
+
+commit f4611e5be8e770e646c3fec454b0029aaf85879e
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 01:30:20 2025 +0100
+
+    testing APIs
+
+commit 7cdfb16d6a5edba5f8f88de6cdac1f3986c5f5ef
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 01:23:19 2025 +0100
+
+    testing APIs
+
+commit f034830a4dc2698c3c1c6d151993137f85253e00
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 01:11:15 2025 +0100
+
+    adding middleware after login route
+
+commit 79b682c654cf874df3ee19a85aa0091c6f6fd9b7
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 01:07:40 2025 +0100
+
+    removed middleware
+
+commit 6611c2b6d0a72cf8a5214c9e4f8250f6f6a95775
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 00:47:55 2025 +0100
+
+    adding prints in the beginning
+
+commit 6bdc3a00f99198c45221db7316945a9c51ba380e
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 00:33:38 2025 +0100
+
+    updating cors
+
+commit ef377cd4113c123d595534bd7f4ecbd67f656658
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 00:30:55 2025 +0100
+
+    server listening from everywhere
+
+commit e15e577e9ad8eec3b93566a76f7ff214240cad10
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Sat Mar 1 00:03:21 2025 +0100
+
+    debugging server2
+
+commit 34761a0b9e0b1a51d3fcd51601c7a67398a5f3dc
+Merge: ea65fde bd6453c
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Fri Feb 28 23:53:58 2025 +0100
+
+    Merge branch 'main' of github.com:pieterdehoogd02/DevOps
+
+commit ea65fdebd8914f69faaddbccc75ee57c8c85bd65
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Fri Feb 28 23:53:34 2025 +0100
+
+    debugging server
+
+commit bd6453c552a0791b4bb8d3b91b24ee512506eca5
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Fri Feb 28 23:46:25 2025 +0100
+
+    fix server.js
+
+commit de0f6714466b023c1fb65eccc2bce83e54862955
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Fri Feb 28 23:37:00 2025 +0100
+
+    add role validation
+
+commit 5a2abd22ee1da28ceeb12fb4e4fc429ed70dd01c
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Fri Feb 28 23:31:45 2025 +0100
+
+    changed variables
+
+commit 1e8444d14463775a0a47bf6529d575f1ea54c3dc
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Fri Feb 28 23:23:56 2025 +0100
+
+    changed env vars
+
+commit 385fa23ac63d4fbc48e7756fdb68e8a78fdf8ece
+Merge: 5370dcb 67d6783
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Fri Feb 28 21:52:40 2025 +0100
+
+    Merge branch 'main' of github.com:pieterdehoogd02/DevOps
+
+commit 5370dcbba8b975543c547f2ecfd04039b7ffb2da
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Fri Feb 28 21:51:36 2025 +0100
+
+    changed frontend to keycloak changes
+
+commit 67d6783107822139b131915458221d6cf5733904
+Merge: 00ed1d9 bda247b
+Author: Radu Milicin <115466875+radumilicin@users.noreply.github.com>
+Date:   Fri Feb 28 21:33:24 2025 +0100
+
+    Merge pull request #19 from pieterdehoogd02/working_on_keycloak
+    
+    Working on keycloak
+
+commit 00ed1d9682fbaa6df8eda8710b8150475ef53bdb
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Fri Feb 28 21:31:52 2025 +0100
+
+    Testing CI/CD pipeline
+
+commit bda247b111daf0abd08d3ceefd373dc30aa2d7bb
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Fri Feb 28 21:29:31 2025 +0100
+
+    added DB architecture diagram
+
+commit 6dad3f408eca6dec1b64237ccf03a0ecb069117c
+Merge: ed72871 ab3d10f
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Fri Feb 28 20:33:29 2025 +0100
+
+    Merge branch 'main' of github.com:pieterdehoogd02/DevOps
+
+commit ed72871e47a0cf652ce71de9b24ef896a12f98fd
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Fri Feb 28 20:33:16 2025 +0100
+
+    loginDone
+
+commit ab3d10fe1ad5c00eba39b4d201dc415d68f090e9
+Author: yutong0310 <yutong.li4@student.uva.nl>
+Date:   Fri Feb 28 20:26:53 2025 +0100
+
+    ci/cd pipelines - create deploy.yml
+
+commit 15c9beb7ad3be00a9b090e86b4c1912cd9b9074e
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Fri Feb 28 16:31:14 2025 +0100
+
+    fixed login
+
+commit d61cbf79494ab0102a5614712b5a804ab4c65510
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Fri Feb 28 14:03:33 2025 +0100
+
+    fixed login service
+
+commit ce99e46d35c865e42301d1f29e5a15c062ba7f4c
+Merge: 85434d9 b25259e
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Fri Feb 28 13:04:15 2025 +0100
+
+    Merge branch 'main' of github.com:pieterdehoogd02/DevOps
+
+commit 85434d994a8c3192ae49aaa627b4cd86c4709f0a
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Fri Feb 28 13:03:40 2025 +0100
+
+    now getting access token from keycloak
+
+commit b25259e1955535b3d64e0f034d922ebddd6c794a
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Thu Feb 27 20:55:59 2025 +0100
+
+    fixed dockerfile
+
+commit d5955841a84c8fdf29e98cf48bfa4e0ff8cebe24
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Thu Feb 27 15:53:49 2025 +0100
+
+    changed dockerfile
+
+commit 7de5d91bf5806c7a50210dac276b1ad0f659a32c
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Thu Feb 27 11:43:56 2025 +0100
+
+    changed correct keycloak url
+
+commit 14efd0b0df392eec45a0dfa428fee27e7c6356ac
+Merge: 0d14ff6 e1e5311
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Feb 27 10:54:13 2025 +0100
+
+    Merge branch 'frontend'
+
+commit 0d14ff68b3d49a371e1a6adafaba48f23f40b824
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Feb 27 10:54:08 2025 +0100
+
+    updated package.json
+
+commit e1e531172d396ee9755595e000521e01f162da40
+Merge: 8aa7ac7 3a996b7
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Feb 27 10:53:30 2025 +0100
+
+    Merge branch 'frontend' of https://github.com/radumilicin/DevOpsProj into frontend
+
+commit 8aa7ac773821eabdbe4ae366bbcc34ef212b9b82
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Feb 27 10:42:58 2025 +0100
+
+    changed package.json
+
+commit 5402267e8df5b560cc52343b7e008c11e81b03c1
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Wed Feb 26 17:03:51 2025 +0100
+
+    modified for deployment on AWS
+
+commit 3a996b749b8f7306fddaa579848e7a7ea18120df
+Merge: 308908c 5453a75
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Feb 27 10:43:54 2025 +0100
+
+    Merge branch 'main' of https://github.com/radumilicin/DevOpsProj into frontend
+
+commit 308908cf7a01929b93a6d43bde17d46d293b7bd1
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Feb 27 10:42:58 2025 +0100
+
+    changed package.json
+
+commit 5453a75c0f540e66924857083ccb9c1a2f8e7dc1
+Merge: e2a4a53 3f8f310
+Author: Radu Milicin <115466875+radumilicin@users.noreply.github.com>
+Date:   Thu Feb 27 10:32:14 2025 +0100
+
+    Merge pull request #1 from radumilicin/frontend
+    
+    Frontend
+
+commit 3f8f3106f3f558fb3e5a8278ef60e6dcf6af51ea
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Thu Feb 27 10:30:34 2025 +0100
+
+    trying to put on AWS Amplify
+
+commit 4d64f8bd69021838eecbacf5a31116396189872c
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-83.vpn.uva.nl>
+Date:   Wed Feb 26 17:03:51 2025 +0100
+
+    modified for deployment on AWS
+
+commit 5e6b41d7991a48a175ca7c7bb05c40e9b61fd8ec
+Merge: e2a4a53 3cd9c91
+Author: Radu Milicin <115466875+radumilicin@users.noreply.github.com>
+Date:   Wed Feb 19 15:22:57 2025 +0100
+
+    Merge pull request #13 from pieterdehoogd02/frontend
+    
+    working on login and register page
+
+commit 3cd9c9109549477e2a04b9b0ac0ef6ca127e635a
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Wed Feb 19 15:18:02 2025 +0100
+
+    working on login and register page
+
+commit e2a4a53136cabed18e43b3ce8dd513e5bf58e3cd
+Author: Andrei Radu Milicin <andrei.milicin@gmail.com>
+Date:   Wed Feb 19 14:15:01 2025 +0100
+
+    added frontend
+
+commit 244116b0f75111a1952e653b8c198c176580dc61
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-106.vpn.uva.nl>
+Date:   Tue Feb 18 10:17:36 2025 +0100
+
+    add server.js
+
+commit b0010100d8bd093c7348430005696ff82d8c9901
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-106.vpn.uva.nl>
+Date:   Mon Feb 17 21:07:52 2025 +0100
+
+    fixed setup
+
+commit 6571408f1a743dc0baead096e9b919896a2027e6
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-106.vpn.uva.nl>
+Date:   Mon Feb 17 20:59:29 2025 +0100
+
+    setup
+
+commit 2547cdcc650d5240c047826c8108ed945aec4559
+Author: yutong li <yt@eduvpn-uva-stu-145-3-16-106.vpn.uva.nl>
+Date:   Mon Feb 17 20:46:41 2025 +0100
+
+    initialize

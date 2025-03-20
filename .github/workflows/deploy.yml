@@ -1,0 +1,116 @@
+name: Deploy to AWS EC2
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Set up SSH
+      run: |
+        echo "${{ secrets.EC2_SSH_KEY }}" > private_key.pem
+        chmod 600 private_key.pem
+
+    - name: Initialise the Authentication service
+      run: |
+        ssh -o StrictHostKeyChecking=no -i private_key.pem ubuntu@54.164.144.99 << 'EOF'
+
+          ls -la
+
+          cd /home/ubuntu/app
+
+          # Ensure repository is initialized correctly
+          if [ ! -d ".git" ]; then 
+            git init .
+            git remote add origin ${{ secrets.DEPLOY_REPO_URL }}
+          fi
+
+          # Pull latest changes
+          git pull origin main
+
+          # Deploy Authentication Service
+          cd backend/authentication-service
+          
+          # Stop & Remove existing container
+
+          # Stop & Remove existing container
+          docker stop auth-service || true
+          docker rm auth-service || true
+
+          # Copy the certificate into the container
+          cp ../../../fullchain.pem /home/ubuntu/app/backend/authentication-service
+
+          # copy the env file into auth service
+          cp ../../../.env /home/ubuntu/app/backend/authentication-service
+
+          chmod 644 /home/ubuntu/app/backend/authentication-service/fullchain.pem
+
+          # Create the logs directory if it doesn't exist
+          mkdir -p ../../../auth-service-logs
+
+
+          # Build and Run New Container with logs enabled
+          # Build & Run authentication-service
+          docker build -t authentication-service .
+          docker run -d -p 5001:5001 --env-file .env --name auth-service authentication-service
+
+          # docker logs -f auth-service
+
+        EOF
+
+    # - name: Connect to Keycloak Instance & start Keycloak + DB
+    #   run: |
+    #     eval "$(ssh-agent -s)"
+    #     echo "${{ secrets.EC2_SSH_KEY }}" > private_key.pem
+    #     chmod 600 private_key.pem
+    #     ssh-add private_key.pem
+    #     ssh -v -o StrictHostKeyChecking=no -o PubkeyAcceptedKeyTypes=+ssh-rsa -o HostKeyAlgorithms=+ssh-rsa -i private_key.pem ubuntu@184.72.205.213
+         
+    #       # Ensure repository is initialized correctly
+    #       if [ ! -d ".git" ]; then 
+    #         git init .
+    #         git remote add origin ${{ secrets.DEPLOY_REPO_URL }}
+    #       fi
+        
+    #       # stop the keycloak and remove it
+    #       sudo docker stop keycloak && sudo docker rm keycloak
+
+    #       # start the keycloak and db service
+    #       sudo docker compose -f compose1.yaml up -d
+
+    #       # see if the keycloak and keycloak DB are running
+    #       sudo docker ps
+    #     EOF
+    # ssh -o StrictHostKeyChecking=no -i private_key.pem ubuntu@44.203.90.240 << 'EOF'
+    - name: Make checklist service 
+      run: | 
+        echo "${{ secrets.EC2_SSH_KEY }}"
+        ssh -v -i private_key.pem -o StrictHostKeyChecking=no -o PubkeyAuthentication=yes ubuntu@44.203.90.240
+
+          # Ensure repository is initialized correctly
+          if [ ! -d ".git" ]; then 
+            git init .
+            git remote add origin ${{ secrets.DEPLOY_REPO_URL }}
+          fi
+
+          # Pull latest changes
+          git pull origin main
+
+          # Deploy Checklist Service
+          cd backend/checklist-service
+
+          docker stop checklist-service || true
+          docker rm checklist-service || true
+
+          # Build and start checklist-service (only if not already running)
+          docker build -t checklist-service .
+          docker run -d -p 5002:5002 --env-file /home/ubuntu/app/backend/checklist-service/.env --name checklist-service checklist-service || echo "Checklist service container already running or failed to start"
+        EOF
+        
