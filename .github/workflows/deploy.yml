@@ -90,10 +90,11 @@ jobs:
     #       sudo docker ps
     #     EOF
     # ssh -o StrictHostKeyChecking=no -i private_key.pem ubuntu@44.203.90.240 << 'EOF'
+    
     - name: Make checklist service 
       run: | 
         echo "${{ secrets.EC2_SSH_KEY }}"
-        ssh -v -i private_key.pem -o StrictHostKeyChecking=no -o PubkeyAuthentication=yes ubuntu@44.203.90.240
+        ssh -v -i private_key.pem -o StrictHostKeyChecking=no -o PubkeyAuthentication=yes ubuntu@44.203.90.240 << 'EOF'
 
           # Ensure repository is initialized correctly
           if [ ! -d ".git" ]; then 
@@ -105,7 +106,14 @@ jobs:
           git pull origin main
 
           # Deploy Checklist Service
-          cd backend/checklist-service
+          cd /home/ubuntu/checklist-service/backend/checklist-service
+
+          # **Add a check to confirm the .env file exists**
+          echo "Checking if .env file exists..."
+          ls -la /home/ubuntu/checklist-service/backend/checklist-service
+
+          # Fix permissions (if needed)
+          chmod 644 /home/ubuntu/checklist-service/backend/checklist-service/.env
 
           docker stop checklist-service || true
           docker rm checklist-service || true
